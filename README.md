@@ -6,7 +6,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - Solution URL: [Solution]
 
-- Live Site URL: [Live site]
+- Live Site URL: [Live site](https://sparkling-naiad-900e30.netlify.app)
 
 ### Built with
 
