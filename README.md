@@ -4,7 +4,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution]
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub)
 
 - Live Site URL: [Live site](https://sparkling-naiad-900e30.netlify.app)
 
